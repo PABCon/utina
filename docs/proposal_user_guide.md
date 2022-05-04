@@ -375,7 +375,7 @@ The Invoice Status will be updated and shown as`Validated`, and the accounting d
 
 # V. Proposal Processes
 
-![](/assets/POC graph 2.png)
+![](/assets/POCgraph2.png)
 
 ## 1. Sales Process
 
