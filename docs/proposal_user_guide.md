@@ -74,11 +74,11 @@ A set of search filters is available according to the following criteria:
 
 This way, the user only has to insert some of these filters and then click on the `Search` button, to access the required proposal.
 
-![](assets/search 3.png)
+![](/assets/search2.png)
 
 For example, to display a Proposal in the`Analysis` phase, the user has to select the Phase filter `Analysis` and then click on the`Search`button.
 
-![](assets/search 3.png)
+![](/assets/search3.png)
 
 The button`Clear` will clear all the applied filters to refine the search.
 
@@ -137,7 +137,7 @@ Additional Information
 - **Accounting Events**: lists accounting events details linked to the workflow procedures executed on the Proposal
 - **Documents**: displays the list of configured documents on the Proposal component satisfying application rules
 
-![](/assets/contract details.png)
+![](/assets/contractdetails.png)
 
 The buttons available inside the Proposal details area, including all these sections, are:
 
@@ -149,7 +149,7 @@ The buttons available inside the Proposal details area, including all these sect
 
 The Quick Simul section contains all fundamental inputs to generate a simulation result for a financing request.
 
-![](/assets/POC graph 1.png)
+![](/assets/POCgraph1.png)
 
 To generate a Proposal Simulation, the user needs to fill in:
 
@@ -161,7 +161,7 @@ To generate a Proposal Simulation, the user needs to fill in:
 
 ### 1.1 General Information
 
-![](/assets/general information.png)
+![](/assets/generalinformation.png)
 
 The General Information section contains the general information of the contract:
 
@@ -367,7 +367,7 @@ The asset is automatically created after the Proposal creation and saved. All th
 
 Once the user saves the filled Client Invoice Data, the system will create the invoice and display the following message:
 
-![](/assets/status success.png)
+![](/assets/statussuccess.png)
 
 The system will then generate and display the new invoice reference and the third-party name at the top of the screen.
 
@@ -398,10 +398,6 @@ If the minimum and maximum are exceeded, a control is triggered: the deal creato
 ## 3. Risk Process
 
 ## 4. Back Office Process
-
-# 
-
-
 
 <div style="text-align:center;background-color='#00A896;">
 <h1>Got a question? <a href='mailto:hello@utina.com'>Get in touch</a></h1>
