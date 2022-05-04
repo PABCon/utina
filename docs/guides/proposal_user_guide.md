@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Guides
-nav_order: 2
+title: Proposal Component User Guide
+parent: Guides
+nav_order: 1
 ---
+
 
 
 # Proposal Component - User Guide
