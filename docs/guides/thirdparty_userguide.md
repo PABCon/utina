@@ -154,7 +154,7 @@ The input screen appears with several sections.
 
 General data section includes general information about the Third Party.
 
-![](../../assets/thirdpartyadditionalinformation.png)
+![](../../assets/thirdpartygeneralinformation.png)
 
 This Data can be:
 
