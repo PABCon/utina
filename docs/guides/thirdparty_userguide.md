@@ -165,7 +165,7 @@ Depending on the type of actor, the fields displayed in the &#39;General Data&#3
 
 In case of Individual Type:
 
-  | **Fields** | **Description** | **Status** |
+| **Fields** | **Description** | **Status** |
 | --- | --- | --- |
 | Reference | System-generated reference that is unique to the Third Party ||
 | Type | List of values: Individual, Company | Mandatory |
@@ -194,7 +194,7 @@ _Table 1: Individual General Information_
 
 In case of Company Type:
 
- | **Fields** | **Description** | **Status** |
+| **Fields** | **Description** | **Status** |
 | --- | --- | --- |
 | Reference | System-generated reference that is unique to the Third Party ||
 | Type | List of values: Individual, Company | Mandatory |
