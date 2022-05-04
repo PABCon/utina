@@ -8,7 +8,7 @@ nav_order: 3
 
 
 # Proposal Component - User Guide
-{: .no_toc }
+{:.no_toc }
 # Privacy Policy
 
 The contents of this document are confidential by nature and are to be disclosed only on a need-to-know basis to persons belonging solely to Utina Product.
@@ -21,9 +21,9 @@ This document should be considered in its totality for understanding.
 
 # INDEX
 
-{: .no_toc .text-delta }
+{:.no_toc .text-delta}
 
-TOC {:toc}
+1.TOC{:toc}
 
 # I. Preface
 
