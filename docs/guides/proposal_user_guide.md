@@ -379,6 +379,29 @@ The Invoice Status will be updated and shown as`Validated`, and the accounting d
 
 ![](/assets/POCgraph2.png)
 
+| **Step** | **Description** |
+| --- | --- |
+| 1 | Proposal Creation |
+| 2 | The Customer is not interested, the sales representative cancel the proposal |
+| 3 | The customer is interest and documents are available, the Sales representative prooceeds with collecting the documents |
+| 4 |  The customer is interest and documents are not available, the Sales runs waiting documents to send an email to the customer requesting the missing documents |
+| 5 | The sales manager validates the proposal |
+| 6 | The Sales Team adds a guaranty |
+| 7 | The Analyst manages the proposal |
+| 8 | The Analyst creates a scoring file |
+| 9 | The Analst proceeds with Analysis and validation of the scoring file |
+| 10 | The Analyst decides to cancel the scoring file and creates a new one |
+| 11 | The Analyst enters the decision |
+| 12 | Risk Manager  Enters decision |
+| 13 | The Back Officer prepares the contract |
+| 14 | The Back Officer ordres the asset |
+| 15 | The Back Officer validates the purchase order |
+| 16 | The Back Officer decides to cancel the purchase order and create a new one |
+| 17 | The Back Officer launches the Asset Delivery workflow and activates the contract |
+
+
+
+
 ## 1. Sales Process
 
 * If the spread is out of the already defined ranges, the deal creator will request an authorization. And a task will be sent to the Head of the Department, who can either accept or reject it:
