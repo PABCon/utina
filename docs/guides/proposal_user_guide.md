@@ -64,7 +64,7 @@ Before starting please note that, in Utina Platform, all Proposals are created f
 
 Through the Client Invoices area, authorized users can search for `Proposals`and process different actions - by simply entering the Proposals menu and starting the search for a specific proposal.
 
-![](../assets/search.png)
+![](../../assets/search.png)
 
 A set of search filters is available according to the following criteria:
 
@@ -79,11 +79,11 @@ A set of search filters is available according to the following criteria:
 
 This way, the user only has to insert some of these filters and then click on the `Search` button, to access the required proposal.
 
-![](../assets/search2.png)
+![](../../assets/search2.png)
 
 For example, to display a Proposal in the`Analysis` phase, the user has to select the Phase filter `Analysis` and then click on the`Search`button.
 
-![](../assets/search3.png)
+![](../../assets/search3.png)
 
 The button`Clear` will clear all the applied filters to refine the search.
 
@@ -121,7 +121,7 @@ In the `Contract`field, the user will also see a summary panel with the followin
 
 Then, the `Actions`button will display the list of available actions he can execute on the Proposal - referring to the verified application rules on the User profile, the Proposal status, and its phase or any other business process.
 
-![](../assets/contract.png)
+![](../../assets/contract.png)
 
 # III. Proposal Consultation
 
@@ -142,7 +142,7 @@ Additional Information
 - **Accounting Events**: lists accounting events details linked to the workflow procedures executed on the Proposal
 - **Documents**: displays the list of configured documents on the Proposal component satisfying application rules
 
-![](../assets/contractdetails.png)
+![](../../assets/contractdetails.png)
 
 The buttons available inside the Proposal details area, including all these sections, are:
 
@@ -154,7 +154,7 @@ The buttons available inside the Proposal details area, including all these sect
 
 The Quick Simul section contains all fundamental inputs to generate a simulation result for a financing request.
 
-![](../assets/POCgraph1.png)
+![](../../assets/POCgraph1.png)
 
 To generate a Proposal Simulation, the user needs to fill in:
 
@@ -166,7 +166,7 @@ To generate a Proposal Simulation, the user needs to fill in:
 
 ### 1.1 General Information
 
-![](../assets/generalinformation.png)
+![](../../assets/generalinformation.png)
 
 The General Information section contains the general information of the contract:
 
@@ -183,7 +183,7 @@ The General Information section contains the general information of the contract
 - Financed Asset
 - Proposal Conditions
 
-![](../assets/filters.png)
+![](../../assets/filters.png)
 
 ### 1.2 Financed Asset
 
@@ -193,7 +193,7 @@ To visualize the Asset detail, click on the hyperlink in the column`Asset Refere
 
 ### 1.3 Offer &amp; Pricing
 
-![](../assets/offer.png)
+![](../../assets/offer.png)
 
 ### 1.4 Proposal Conditions
 
@@ -372,7 +372,7 @@ The asset is automatically created after the Proposal creation and saved. All th
 
 Once the user saves the filled Client Invoice Data, the system will create the invoice and display the following message:
 
-![](../assets/statussuccess.png)
+![](../../assets/statussuccess.png)
 
 The system will then generate and display the new invoice reference and the third-party name at the top of the screen.
 
@@ -380,7 +380,7 @@ The Invoice Status will be updated and shown as`Validated`, and the accounting d
 
 # V. Proposal Processes
 
-![](../assets/POCgraph2.png)
+![](../../assets/POCgraph2.png)
 
 | **Step** | **Description** |
 | --- | --- |
