@@ -62,7 +62,7 @@ Before starting please note that, in Utina Platform, all Proposals are created f
 
 ## 1. Search Process
 
-Through the Client Invoices area, authorized users can search for `Proposals`and process different actions - by simply entering the Proposals menu and starting the search for a specific proposal.
+Through the Client Invoices area, authorized users can search for ` Proposals ` and process different actions - by simply entering the Proposals menu and starting the search for a specific proposal.
 
 ![](../../assets/search.png)
 
@@ -77,19 +77,19 @@ A set of search filters is available according to the following criteria:
 - Proposal Phase
 - Proposal Status
 
-This way, the user only has to insert some of these filters and then click on the `Search` button, to access the required proposal.
+This way, the user only has to insert some of these filters and then click on the ` Search ` button, to access the required proposal.
 
 ![](../../assets/search2.png)
 
-For example, to display a Proposal in the`Analysis` phase, the user has to select the Phase filter `Analysis` and then click on the`Search`button.
+For example, to display a Proposal in the ` Analysis ` phase, the user has to select the Phase filter ` Analysis ` and then click on the ` Search ` button.
 
 ![](../../assets/search3.png)
 
-The button`Clear` will clear all the applied filters to refine the search.
+The button ` Clear ` will clear all the applied filters to refine the search.
 
 ## 5.Proposal List
 
-Once the user clicks on the `Search` button, the resulting Proposals list will be displayed, with the following data for each Proposal reference:
+Once the user clicks on the ` Search ` button, the resulting Proposals list will be displayed, with the following data for each Proposal reference:
 
 - Proposal Reference
 - Linked Contract Reference
@@ -103,7 +103,7 @@ Once the user clicks on the `Search` button, the resulting Proposals list will b
 - Proposal Status
 - Synthesis: on click, a summary panel will be displaying important data linked to the Proposal (last risk decision, decision level, and related information.)
 
-In the `Contract`field, the user will also see a summary panel with the following information:
+In the ` Contract ` field, the user will also see a summary panel with the following information:
 
 - Product
 - Collaterals and guarantees on the contract
@@ -119,7 +119,7 @@ In the `Contract`field, the user will also see a summary panel with the followin
 - Rate %
 - Total calculated late charges of the contract
 
-Then, the `Actions`button will display the list of available actions he can execute on the Proposal - referring to the verified application rules on the User profile, the Proposal status, and its phase or any other business process.
+Then, the ` Actions ` button will display the list of available actions he can execute on the Proposal - referring to the verified application rules on the User profile, the Proposal status, and its phase or any other business process.
 
 ![](../../assets/contract.png)
 
@@ -146,8 +146,8 @@ Additional Information
 
 The buttons available inside the Proposal details area, including all these sections, are:
 
-- The button`Save`to update and save any modification done within the different Proposal sections
-- The button`Actions`
+- The button ` Save ` to update and save any modification done within the different Proposal sections
+- The button ` Actions ` 
 
 
 ## 1. Quick Simulation
@@ -187,9 +187,9 @@ The General Information section contains the general information of the contract
 
 ### 1.2 Financed Asset
 
-The Asset elements section contains all the assets linked to the contract. The details of the assets are already partially filled from the Front Office. All remaining information can be entered in the Back Office during the `Waiting Implementation`and`In Service`phases.
+The Asset elements section contains all the assets linked to the contract. The details of the assets are already partially filled from the Front Office. All remaining information can be entered in the Back Office during the ` Waiting Implementation ` and ` In Service ` phases.
 
-To visualize the Asset detail, click on the hyperlink in the column`Asset Reference`.
+To visualize the Asset detail, click on the hyperlink in the column ` Asset Reference ` .
 
 ### 1.3 Offer &amp; Pricing
 
@@ -199,7 +199,7 @@ To visualize the Asset detail, click on the hyperlink in the column`Asset Refere
 
 The Financial elements section is filled automatically after offer and pricing application. It will contain the core of the contract, and the scheduled financial element (Rental and deferred interest) to be invoiced to the client.
 
-To visualize the element&#39;s schedule, select the line and click on `Action | Calcule the payment schedule`;.
+To visualize the element&#39;s schedule, select the line and click on ` Action | Calcule the payment schedule ` ;.
 
 ##### Simple Mode
 
@@ -328,9 +328,9 @@ Fixed Payment: all the payments are fixed during the duration of the element
 
 ### 5.1 Payment Steps
 
-- **By Steps and Amount**: this calculation method allows the user to fix some steps of the schedule and to ask the system to calculate the remaining ones. In the `Flow`sub-section, specify`By Steps and Amount` in the dropdown list, and the system will display a new sub-section`Step`enter the steps as required, enter the known amounts and check the steps to be calculated by the system; then, click on `Action | Step amount calculation`to calculate the remaining steps.
+- **By Steps and Amount**: this calculation method allows the user to fix some steps of the schedule and to ask the system to calculate the remaining ones. In the ` Flow ` sub-section, specify ` By Steps and Amount ` in the dropdown list, and the system will display a new sub-section ` Step ` enter the steps as required, enter the known amounts and check the steps to be calculated by the system; then, click on ` Action | Step amount calculation ` to calculate the remaining steps.
 
-The payment schedule is generated accordingly by clicking on `Action | Calcule the payment schedule`.
+The payment schedule is generated accordingly by clicking on ` Action | Calcule the payment schedule ` .
 
 ### 5.2 Seasonal Payment
 
@@ -346,11 +346,11 @@ Example:
 On this other case, this is how Utina manages seasonal amount payments: the customer pays specific weightage in a dedicated month of every calendar year as a regular basis.
 
 Example: 
-> For tourism sector, a customer may ask to pay 100% from January to November. Then he will pay 80% in December, during his lease period for a lease amount of 1M.``
+> For tourism sector, a customer may ask to pay 100% from January to November. Then he will pay 80% in December, during his lease period for a lease amount of 1M. `  ` 
 
 ### 5.3 Weighted Steps Payment
 
-**Weighted Steps**: this method allows the user to have a payment schedule based on weights, by specifying all the steps weight except one. Then the system will determine the weight of that remaining step. At the level of the`Flow`sub-section, in the`Variation rule` dropdown list, select `Weighted Steps`. In the`Step`sub-section, specify the steps with their coefficient, and select a step for which the system has to calculate the weight.
+**Weighted Steps**: this method allows the user to have a payment schedule based on weights, by specifying all the steps weight except one. Then the system will determine the weight of that remaining step. At the level of the ` Flow ` sub-section, in the ` Variation rule ` dropdown list, select ` Weighted Steps ` . In the ` Step ` sub-section, specify the steps with their coefficient, and select a step for which the system has to calculate the weight.
 
 Note that, in case of a rental based on weighted steps, on seasonal payment, both fixed and floating rate are to be used (the system can update the schedule on rate revision date in case of a non-fixed payment plan)
 
@@ -376,7 +376,7 @@ Once the user saves the filled Client Invoice Data, the system will create the i
 
 The system will then generate and display the new invoice reference and the third-party name at the top of the screen.
 
-The Invoice Status will be updated and shown as`Validated`, and the accounting date will be displayed.
+The Invoice Status will be updated and shown as ` Validated ` , and the accounting date will be displayed.
 
 # V. Proposal Processes
 
