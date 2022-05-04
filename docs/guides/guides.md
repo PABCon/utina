@@ -14,5 +14,6 @@ Here you can find all the necessary  user guides for Utina Software Platform.
 
 {: .no_toc .text-delta }
 
-TOC
-1.{:toc}
+1. TOC
+{:toc}
+
