@@ -21,7 +21,7 @@ Third Parties component user guide intended to give assistance to end-users on h
 
 The print screens may differ from one user to another. And access rights to procedure, menu, sub-menus, sections and fields are managed by user profiles access rights.
 
-So, for more information about authorization and access rights management, please read: [Management Company Documentation](../assets/docs/) concepts and setup.
+So, for more information about authorization and access rights management, please read: [Management Company Documentation](../../assets/docs/) concepts and setup.
 
 ## 2. Audiences
 
@@ -48,10 +48,10 @@ For information about Utina products, see: Utina Company [Website](http://www.ut
 
 For information about related Assets component documentation and use, make sure to read:
 
-- [Assets User&#39;s guide](../assets/)
-- [Supplier Invoice/Client Invoice/Payment User&#39;s Guide](../assets/)
-- [Proposal&#39;s Guide](../assets/)
-- [Contract User&#39;s Guide](../assets/)
+- [Assets User&#39;s guide](../../assets/)
+- [Supplier Invoice/Client Invoice/Payment User&#39;s Guide](../../assets/)
+- [Proposal&#39;s Guide](../../assets/)
+- [Contract User&#39;s Guide](../../assets/)
 
 
 ## 4. Version History
@@ -90,7 +90,7 @@ Below is a list including the definitions of the acronyms used in the document.
 2. Identify via Login screen
 3. Access to Utina Platform
 
-![](../assets/login.png)
+![](../../assets/login.png)
 
 Once connected, the system shows to the user:
 
@@ -101,7 +101,7 @@ Once connected, the system shows to the user:
 
 Select the`Third Parties`menu.
 
-![](../assets/thirdpartymenu.png)
+![](../../assets/thirdpartymenu.png)
 
 
 # II. Third Parties Search
@@ -118,7 +118,7 @@ Search can be launched via:
 
 - Third Party Fiscal ID
 
-![](../assets/thirdpartysearch.png)
+![](../../assets/thirdpartysearch.png)
 
 1. First, specify criteria by combining different filters
 
@@ -126,11 +126,11 @@ Search can be launched via:
 
 It is possible to search for a Third Party by entering only a part of its name.
 
-![](../assets/thirdpartyresults.png)
+![](../../assets/thirdpartyresults.png)
 
 Once the Third Party is found, please click on the Reference hyperlink to visualize the Third Party details.
 
-![](../assets/thirdpartyresults.png)
+![](../../assets/thirdpartyresults.png)
 
 
 # III. Third Parties Creation
@@ -139,7 +139,7 @@ To create a new Third Party:
 
 1. Click on the `Add` button.
 
-![](../assets/addbutton.png)
+![](../../assets/addbutton.png)
 
 The input screen appears with several sections.
 
@@ -147,12 +147,12 @@ The input screen appears with several sections.
 
 General data section includes general information about the Third Party.
 
-![](../assets/thirdpartyadditionalinformation.png)
+![](../../assets/thirdpartyadditionalinformation.png)
 
 This Data can be:
 
 - Dropdown list (Type, Legal form, Activity, or other)
-- Loop icon ![](../assets/magnifier.png) launching a search screen: Parent Company
+- Loop icon ![](../../assets/magnifier.png) launching a search screen: Parent Company
 - Free input fields
 
 Enter:
@@ -220,7 +220,7 @@ In case of Company Type:
 
 Fields preceded by (\*) are mandatory, such as:
 
-![](../assets/mandatoryfield.png)
+![](../../assets/mandatoryfield.png)
 
 ## 2.Addresses (To be modified)
 
@@ -233,7 +233,7 @@ To add a new address, please click on the `Address` section, and then enter the 
 - Zip Code
 - Region
 
-![](../assets/address.png)
+![](../../assets/address.png)
 
 ## 3.Contacts
 
@@ -249,7 +249,7 @@ Please click on the &#39;Contacts&#39; section, and then enter the following inf
 - Contact Name
 - Contact Position
 
-![](../assets/contactdetails.png)
+![](../../assets/contactdetails.png)
 
 ## 4.Roles &amp; Payments (To be modified)
 
@@ -257,7 +257,7 @@ Please click on the &#39;Contacts&#39; section, and then enter the following inf
 
 A Third Party in Utina can have one or more active roles at the same time. It can, for example, be a client of one file and a supplier or guarantor of another.
 
-![](../assets/roles.png)
+![](../../assets/roles.png)
 
 It is mandatory to indicate at least one role.
 
@@ -267,7 +267,7 @@ To select a role, please press one or more options from the radio buttons or cho
 
 This section is dedicated to the payment method of the Third Party, allowing to assign to a Third Party the means of payment as also the payment delays and the formulas for calculating the additional costs.
 
-![](../assets/payments.png)
+![](../../assets/payments.png)
 
 To define the Third Party&#39;s means of payment, the user should enter the following fields&#39; information:
 
@@ -320,13 +320,13 @@ These are the actions they can perform here:
 - Check and visualize document details by clicking on the`download`llink
 - Validate or refuse it by clicking on the`action` button
 
-![](../assets/documents.png)
+![](../../assets/documents.png)
 
 ## 7.Correspondents (Screen to be modified)
 
 Utina Platform stores users who have intervened on the Third Party in the &#39;Correspondents&#39; section. For example, a user who created the Third Party or those who passed events or changed the status of the Third Party.
 
-![](../assets/correspondents.png)
+![](../../assets/correspondents.png)
 
 ## 8.Status (screen to be modified)
 
@@ -334,7 +334,7 @@ This section is dedicated to the rating of the Third Party, allowing to display 
 
 To assign a status manually to the Third Party, the authorized user can execute the action `Update Status` (for more details, please check the`Update Status`paragraph).
 
-![](../assets/status.png)
+![](../../assets/status.png)
 
 ## 9.Income (For Individual)
 
@@ -351,7 +351,7 @@ To fill in this information the user should enter all fields:
 - Other Loan: Free input field
 - Other expenses: Free input field
 
-![](../assets/income.png)
+![](../../assets/income.png)
 
 ## 10.Financial Statements (For Company)
 
@@ -364,9 +364,9 @@ To insert a financial statement the user has to:
 3. Mention the reference year
 4. Press &#39;create&#39; button
 
-![](../assets/financialstatements.png)
+![](../../assets/financialstatements.png)
 
-![](../assets/createstatement.png)
+![](../../assets/createstatement.png)
 
 ## 11.Spouse
 
@@ -439,7 +439,7 @@ The `Check List` section is a verification list of compliance and completeness.
 
 By clicking on this section, the screen displays the list of documents and information that have to be provided by the Third Party.
 
-![](../assets/checklist.png)
+![](../../assets/checklist.png)
 
 By clicking on the `Action`button, these are the actions the user can perform:
 
@@ -454,7 +454,7 @@ The `Synthesis` section contains summary data of the Third Party. This data is u
 
 The user can visualize this summary data by clicking on the`Synthesis`button.
 
-![](../assets/systhesis.png)
+![](../../assets/systhesis.png)
 
 ## 14.Communication
 
@@ -468,7 +468,7 @@ This feature allows the user to summarize all the operations assigned to the dif
 
 To accede to this screen, the user has to select the &#39;Flows&#39; section.
 
-![](../assets/contractlist.png)
+![](../../assets/contractlist.png)
 
 The screen includes 3 tabs:
 
@@ -493,7 +493,7 @@ It allows to list the total of the remaining amounts, as debit, credit and suspe
 - The user can search for a transaction by specifying the &#39;Doc Date&#39;
 - The user can search for a transaction by specifying the &#39;Pay Status&#39;
 
-![](../assets/flows.png)
+![](../../assets/flows.png)
 
 ## 3.Late Charge
 
