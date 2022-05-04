@@ -23,8 +23,7 @@ This document should be considered in its totality for understanding.
 
 {: .no_toc .text-delta }
 
-1.TOC
-{:toc}
+TOC 1.{:toc}
 
 
 # I. Preface
