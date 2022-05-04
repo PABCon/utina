@@ -1,3 +1,9 @@
+---
+layout: default
+title: Configuration
+nav_order: 2
+---
+
 
 # Proposal Component - User Guide
 
@@ -13,7 +19,9 @@ This document should be considered in its totality for understanding.
 
 # INDEX
 
-[[toc]]
+{: .no_toc .text-delta }
+
+TOC {:toc}
 
 # I. Preface
 
@@ -51,7 +59,7 @@ Before starting please note that, in Utina Platform, all Proposals are created f
 
 Through the Client Invoices area, authorized users can search for `Proposals`and process different actions - by simply entering the Proposals menu and starting the search for a specific proposal.
 
-![](.pastes\2022-04-28-12-23-49.png)
+![](/assets/search.png)
 
 A set of search filters is available according to the following criteria:
 
@@ -66,11 +74,11 @@ A set of search filters is available according to the following criteria:
 
 This way, the user only has to insert some of these filters and then click on the `Search` button, to access the required proposal.
 
-![](.pastes\2022-04-28-12-24-35.png)![](RackMultipart20220428-1-sxagf6_html_a46cdecbc4ca059.png)
+![](/assets/search2.png)
 
 For example, to display a Proposal in the`Analysis` phase, the user has to select the Phase filter `Analysis` and then click on the`Search`button.
 
-![](.pastes\2022-04-28-13-08-05.png)![](RackMultipart20220428-1-sxagf6_html_5803abe481d09677.png)
+![](/assets/search3.png)
 
 The button`Clear` will clear all the applied filters to refine the search.
 
@@ -108,7 +116,7 @@ In the `Contract`field, the user will also see a summary panel with the followin
 
 Then, the `Actions`button will display the list of available actions he can execute on the Proposal - referring to the verified application rules on the User profile, the Proposal status, and its phase or any other business process.
 
-![](.pastes\2022-04-28-13-09-21.png)![](RackMultipart20220428-1-sxagf6_html_e165df9e48fd497d.png)
+![](/assets/contract.png)
 
 # III. Proposal Consultation
 
@@ -129,7 +137,7 @@ Additional Information
 - **Accounting Events**: lists accounting events details linked to the workflow procedures executed on the Proposal
 - **Documents**: displays the list of configured documents on the Proposal component satisfying application rules
 
-![](.pastes\2022-04-28-13-11-42.png)![](RackMultipart20220428-1-sxagf6_html_dd514f9e8336aaec.png)
+![](/assets/contract details.png)
 
 The buttons available inside the Proposal details area, including all these sections, are:
 
@@ -141,7 +149,7 @@ The buttons available inside the Proposal details area, including all these sect
 
 The Quick Simul section contains all fundamental inputs to generate a simulation result for a financing request.
 
-![](.pastes\2022-04-28-13-14-47.png)
+![](/assets/POC graph 1.png)
 
 To generate a Proposal Simulation, the user needs to fill in:
 
@@ -153,7 +161,7 @@ To generate a Proposal Simulation, the user needs to fill in:
 
 ### 1.1 General Information
 
-![](.pastes\2022-04-28-13-15-20.png)![](RackMultipart20220428-1-sxagf6_html_dc5803da15b13da1.png)
+![](/assets/general information.png)
 
 The General Information section contains the general information of the contract:
 
@@ -170,7 +178,7 @@ The General Information section contains the general information of the contract
 - Financed Asset
 - Proposal Conditions
 
-![](.pastes\2022-04-28-13-17-44.png)
+![](/assets/filters.png)
 
 ### 1.2 Financed Asset
 
@@ -180,7 +188,7 @@ To visualize the Asset detail, click on the hyperlink in the column`Asset Refere
 
 ### 1.3 Offer &amp; Pricing
 
-![](.pastes\2022-04-28-13-18-29.png)![](RackMultipart20220428-1-sxagf6_html_c599f5c4ea862640.png)
+![](/assets/offer.png)
 
 ### 1.4 Proposal Conditions
 
@@ -359,7 +367,7 @@ The asset is automatically created after the Proposal creation and saved. All th
 
 Once the user saves the filled Client Invoice Data, the system will create the invoice and display the following message:
 
-![](.pastes\2022-04-28-13-37-09.png)![](RackMultipart20220428-1-sxagf6_html_2a732ebfb9f4d8c3.png)
+![](/assets/status success.png)
 
 The system will then generate and display the new invoice reference and the third-party name at the top of the screen.
 
@@ -367,7 +375,7 @@ The Invoice Status will be updated and shown as`Validated`, and the accounting d
 
 # V. Proposal Processes
 
-![](.pastes\2022-04-28-13-37-50.png)![](RackMultipart20220428-1-sxagf6_html_eb872487cb10eaa5.png)
+![](/assets/POC graph 2.png)
 
 ## 1. Sales Process
 
