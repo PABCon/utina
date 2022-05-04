@@ -3,3 +3,9 @@ logo: "/assets/UTINA FINAL LOGO SET-Gradient without top and bottom.png"
 color_scheme: style
 
 
+aux_links:
+  "Utina.io":
+    - "https://www.utina.io"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
