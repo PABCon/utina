@@ -106,7 +106,7 @@ Once connected, the system shows to the user:
 - Notifications: For Information
 - The On-Going Tasks: List of tasks requested by other users to be executed, in order to follow the process
 
-Select the ` Third Parties ` menu.
+Select the`Third Parties`menu.
 
 ![](../../assets/thirdpartymenu.png)
 
@@ -129,7 +129,7 @@ Search can be launched via:
 
 1. First, specify criteria by combining different filters
 
-2. Then, click on the ` Search ` button
+2. Then, click on the`Search`button
 
 It is possible to search for a Third Party by entering only a part of its name.
 
@@ -144,7 +144,7 @@ Once the Third Party is found, please click on the Reference hyperlink to visual
 
 To create a new Third Party:
 
-1. Click on the ` Add ` button.
+1. Click on the`Add`button.
 
 ![](../../assets/addbutton.png)
 
@@ -233,7 +233,7 @@ Fields preceded by (\*) are mandatory, such as:
 
 In Utina Platform, a Third Party can have one or more addresses, although at least one address has to be informed.
 
-To add a new address, please click on the ` Address ` section, and then enter the following information:
+To add a new address, please click on the`Address`section, and then enter the following information:
 
 - Address 1
 - Address 2
@@ -244,7 +244,7 @@ To add a new address, please click on the ` Address ` section, and then enter th
 
 ## 3.Contacts
 
-In this section, the user specifies the different contacts linked to the Third Party by clicking on the ` Contacts ` section.
+In this section, the user specifies the different contacts linked to the Third Party by clicking on the`Contacts`section.
 
 To add a new contact:
 
@@ -317,15 +317,15 @@ So, to add a new bank account, the user has to fill out:
 
 ## 6.Documents (need adjustment)
 
-In Utina&#39;s platform, it is possible to attach documents in electronic format to a Third Party, on the ` Documents ` section.
+In Utina&#39;s platform, it is possible to attach documents in electronic format to a Third Party, on the`Documents`section.
 
 By simply clicking on this section, the screen displays the list of all the attachments that are accessible to users.
 
 These are the actions they can perform here:
 
-- Upload a document by using the ` upload ` button
-- Check and visualize document details by clicking on the ` download ` llink
-- Validate or refuse it by clicking on the ` action ` button
+- Upload a document by using the`upload`button
+- Check and visualize document details by clicking on the`download`llink
+- Validate or refuse it by clicking on the`action`button
 
 ![](../../assets/documents.png)
 
@@ -339,7 +339,7 @@ Utina Platform stores users who have intervened on the Third Party in the &#39;C
 
 This section is dedicated to the rating of the Third Party, allowing to display the status of the Third Party in terms of risk, KYC, Sales, and overall.
 
-To assign a status manually to the Third Party, the authorized user can execute the action ` Update Status ` (for more details, please check the ` Update Status ` paragraph).
+To assign a status manually to the Third Party, the authorized user can execute the action`Update Status`(for more details, please check the`Update Status`paragraph).
 
 ![](../../assets/status.png)
 
@@ -442,13 +442,13 @@ In this section, the user has to enter the information related to the Third Part
 
 ## 12.Check List (need adjustment)
 
-The ` Check List ` section is a verification list of compliance and completeness.
+The`Check List`section is a verification list of compliance and completeness.
 
 By clicking on this section, the screen displays the list of documents and information that have to be provided by the Third Party.
 
 ![](../../assets/checklist.png)
 
-By clicking on the ` Action ` button, these are the actions the user can perform:
+By clicking on the`Action`button, these are the actions the user can perform:
 
 - Upload documents
 - Verify the existence of the required document
@@ -457,15 +457,15 @@ By clicking on the ` Action ` button, these are the actions the user can perform
 
 ## 13.Synthesis
 
-The ` Synthesis ` section contains summary data of the Third Party. This data is updated and recalculated automatically following the various past operations (invoicing, cash flow, etc.).
+The`Synthesis`section contains summary data of the Third Party. This data is updated and recalculated automatically following the various past operations (invoicing, cash flow, etc.).
 
-The user can visualize this summary data by clicking on the ` Synthesis ` button.
+The user can visualize this summary data by clicking on the`Synthesis`button.
 
 ![](../../assets/systhesis.png)
 
 ## 14.Communication
 
-To display the Communication field, the user has to click on the & ` Communication ` button.
+To display the Communication field, the user has to click on the &`Communication`button.
 
 # IV. Third party Flows
 
@@ -506,15 +506,15 @@ It allows to list the total of the remaining amounts, as debit, credit and suspe
 
 This section allows the user to view all default interests related to the Third Party.
 
-Late charges Invoicing can be launched by the Third Party via the ` Third Party ` menu, by entering the ` Flows ` Section and then the ; ` Late Charge ` subsection.
+Late charges Invoicing can be launched by the Third Party via the`Third Party`menu, by entering the`Flows`Section and then the ;`Late Charge`subsection.
 
-To launch Invoicing, the user selects the unpaid invoices, and the field ` Total selected ` will display the total late charge calculated amount for these invoices.
+To launch Invoicing, the user selects the unpaid invoices, and the field`Total selected`will display the total late charge calculated amount for these invoices.
 
-After being calculated, the user can manually update the late charge amount via the filed ` Agreed Amount to invoice ` to be considered in the invoicing process.
+After being calculated, the user can manually update the late charge amount via the filed`Agreed Amount to invoice`to be considered in the invoicing process.
 
-The user can also block the late charge invoicing for any selected invoice by flagging the box under the column ` Block invoicing ` .
+The user can also block the late charge invoicing for any selected invoice by flagging the box under the column`Block invoicing`.
 
-Once the invoices are selected, the user has to click on ` run invoicing ` , so that the Total Invoiced Amount field gets updated with the new amount.
+Once the invoices are selected, the user has to click on`run invoicing`, so that the Total Invoiced Amount field gets updated with the new amount.
 
 
 # V. Third Party modification
