@@ -74,11 +74,11 @@ A set of search filters is available according to the following criteria:
 
 This way, the user only has to insert some of these filters and then click on the `Search` button, to access the required proposal.
 
-![](/assets/search2.png)
+![](/assets/search 2.png)
 
 For example, to display a Proposal in the`Analysis` phase, the user has to select the Phase filter `Analysis` and then click on the`Search`button.
 
-![](/assets/search3.png)
+![](/assets/search 3.png)
 
 The button`Clear` will clear all the applied filters to refine the search.
 
