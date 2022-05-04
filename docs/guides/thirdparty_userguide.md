@@ -8,6 +8,13 @@ nav_order: 4
 
 # Third Parties Component - User Guide
 
+# Privacy Policy
+The contents of this document are confidential by nature and are to be disclosed only on a need-to-know basis to persons belonging solely to Utina Product.
+Any disclosure of the contents of this document to a third party can be done only after a written dialogue with Utina.
+Please note that copying, disseminating, or taking any action based on the above information by anyone not intended as the recipient is unlawful.
+This document should be considered in its totality for understanding.
+
+# Index
 {: .no_toc .text-delta }
 
 1. TOC
