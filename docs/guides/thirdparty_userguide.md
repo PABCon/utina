@@ -197,7 +197,7 @@ In case of Individual Type:
 | Broker | List of values of Brokers ||
 | Branch | List Of values of Branches ||
 | Consent | Consent or agreement required from the Third Party ||
-_Table 1: Individual General Information_
+
 
 In case of Company Type:
 
@@ -223,7 +223,8 @@ In case of Company Type:
 | Broker | List of values of Brokers | |
 | Branch | List of values of Branches | |
 | Consent | Consent or agreement required from the Third Party | |
-  _Table 2  : Company General Information_
+
+
 
 Fields preceded by (\*) are mandatory, such as:
 
