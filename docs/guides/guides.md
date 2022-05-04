@@ -10,7 +10,7 @@ permalink: /docs/guides
 
 Here you can find all the necessary  user guides for Utina Software Platform.
 
-#Table of Contents
+# Table of Contents
 
 {: .no_toc .text-delta }
 
