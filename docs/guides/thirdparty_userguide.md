@@ -10,7 +10,8 @@ nav_order: 4
 
 {: .no_toc .text-delta }
 
-TOC 1.{:toc}
+1. TOC
+{:toc}
 
 # I. Preface
 
