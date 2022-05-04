@@ -524,7 +524,6 @@ Once the invoices are selected, the user has to click on`run invoicing`, so that
 ## Update Bank Account
 ## Update Correspondent
 ## Change Address
-#### Got a question? Get in touch!
 
 <div style="text-align:center;background-color='#00A896;">
 <h1>Got a question? <a href='mailto:hello@utina.com'>Get in touch</a></h1>
