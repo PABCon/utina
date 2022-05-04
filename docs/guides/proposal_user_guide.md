@@ -2,7 +2,7 @@
 layout: default
 title: Proposal Component User Guide
 parent: Guides
-nav_order: 1
+nav_order: 3
 ---
 
 
