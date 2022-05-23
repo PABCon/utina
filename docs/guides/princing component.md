@@ -707,11 +707,20 @@ The Service section is composed by :
 - **Amount Basis**
 - **Service Duration:** The field Service Duration is related to other fields like below :
 
-![](../../assets/68.png)
+| ServiceDuration | Flat once at effect date | Following Payments Schedule | Free Duration | Following Contract Duration, Free periodicity | Steps, Following Payment Schedule | Steps, Free Duration and periodicity | Flat, but spread over the contract duration | Flat, once with first rental |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Service periodicity | Hide | Hide | Display &amp; Mandatory | Display &amp; Mandatory | Hide | Display | Display &amp; Mandatory | Hide |
+| Servicedurationdefault | Hide | Hide | Display &amp; Mandatory | Hide | Hide | Display | Hide | Hide |
+
 
 - **Service Calculation Method:** The field Service Calculation Method is related to other fields like below:
 
-![](../../assets/69.png)
+| ServiceCalculation Method | Fixed amount | Percentage of basis | Fixed amount + Percentage of basis | (Fixed amount + Percentage of basis)\*(1+margin) |
+| --- | --- | --- | --- | --- |
+| Fixed Amount | Display &amp; Mandatory | Hide | Display &amp; Mandatory | Display &amp; Mandatory |
+| Percentage | Hide | Display &amp; Mandatory | Display &amp; Mandatory | Display &amp; Mandatory |
+| Margin on calculation | Hide | Hide | Hide | Display &amp; Mandatory |
+| Additional calculation | Hide | Hide | Hide | Display &amp; Mandatory |
 
 - **Service Period**
 - **Service Duration Definition**
