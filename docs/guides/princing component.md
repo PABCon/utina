@@ -66,6 +66,7 @@ Conventions used in this guide:
 
 This publication contains additions and changes to information previously presented in Pricing Setup.
 
+| --- | --- |
 | **General changes** | lorem  |
 | **New information** | lorem  |
 | **Changed information** | lorem  |
