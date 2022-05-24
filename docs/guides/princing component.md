@@ -133,11 +133,11 @@ The Pricing component is based on two essential elements:
 
 ### 1.1. Search:
 
-1.Log in to the application by typing the system user name and password.
+1. Log in to the application by typing the system user name and password.
 
 2. Click OK to start the application.
 
-On the Utina home page, the user can access the Pricing component through the Configuration menu  Pricing  Pricing element:
+On the Utina home page, the user can access the Pricing component through the Configuration menu > Pricing > Pricing element:
 
 ![](../../assets/1.jpg)
 
@@ -236,7 +236,7 @@ The user should fill in the information of the steps and click &#39;Save&#39; : 
 
 To update, On action, click &#39;Delete&#39; and read a new step.
 
-![](../../assets/12.jpg)refaire
+![](../../assets/12.jpg)
 
 10. Return to the Pricing detail and complete the Rate section:
 
@@ -614,7 +614,7 @@ For example, a service Lease is a type of lease where the lessor undertakes the 
 
 ### Search:
 
-1.Log in to the application by typing the system user name and password.
+1. Log in to the application by typing the system user name and password.
 
 2. Click &#39;OK&#39; to start the application.
 
@@ -655,7 +655,7 @@ The Service component starts with the service creation by adding the following m
 
 #### Create a New Service:
 
-1.On the Utina homepage, go to Configuration  Pricing  Service and click on it. 
+1. On the Utina homepage, go to Configuration  Pricing  Service and click on it. 
 
 ![](../../assets/63.png)
 
@@ -726,13 +726,17 @@ The Invoicing section is composed by:
 
 ![](../../assets/70.png)
 
-- Type: ![](../../assets/71.png)
+- Type:
+![](../../assets/71.png)
 
-- Line: ![](../../assets/71.png)
+- Line: 
+![](../../assets/71.png)
 
-- Category: ![](../../assets/73.png)
+- Category: 
+![](../../assets/73.png)
 
-- Tax Code: ![](../../assets/74.png)
+- Tax Code: 
+![](../../assets/74.png)
 
 ##### Supplier:
 
@@ -743,7 +747,8 @@ The Invoicing section is composed by :
 - Service Repayment Mode :
   - On invoice
   - On receiving payment
-  - None  ![](../../assets/75.png)
+  - None  
+  ![](../../assets/75.png)
 - Flag Auto Expense
 - Service Repayement Percentage
 - Service Repayment Fixed Amount
@@ -804,15 +809,15 @@ A commission is a percentage or fixed payment associated with a Pricing.
 
 #### Add a New Commission:
 
-1.On the Utina homepage, go to Configuration  Pricing  Commission and click on it. 
+1. On the Utina homepage, go to Configuration  Pricing  Commission and click on it. 
 
 ![](../../assets/86.png)
 
-2.To add a new commission, click the &#39;Add&#39; button. 
+2. To add a new commission, click the &#39;Add&#39; button. 
 
 ![](../../assets/87.png)
 
-3.A new commission screen will be displayed:
+3. A new commission screen will be displayed:
 
 ![](../../assets/88.png)
 
@@ -910,7 +915,7 @@ Pricing
 
 ![](../../assets/105.png)
 
-4.After completing the following information, click on the &#39;Save&#39; button 
+4. After completing the following information, click on the &#39;Save&#39; button 
 
 ![](../../assets/106.png)
 
@@ -959,7 +964,7 @@ The Offer component starts with the offer creation by adding the following main 
 
 #### Add a New Offer:
 
-_ **This section describes how to initialize and perform simple tasks using the Offer Menu:** _
+**This section describes how to initialize and perform simple tasks using the Offer Menu:**
 
 It is therefore dedicated to the offer configuration throughout the screening.
 
@@ -981,7 +986,7 @@ Where:
 
 3. Click OK to start the application.
 
-4. In the Utina homepage, go to Configuration  Pricing  Offer and click on it.
+4. In the Utina homepage, go to Configuration > Pricing > Offer and click on it.
 
 ![](../../assets/110.png)
 
