@@ -66,10 +66,10 @@ Conventions used in this guide:
 
 This publication contains additions and changes to information previously presented in Pricing Setup.
 
-| **General changes** |  |
-| **New information** |  |
-| **Changed information** |  |
-| **Deleted information** |  |
+| **General changes** | lorem  |
+| **New information** | lorem  |
+| **Changed information** | lorem  |
+| **Deleted information** | lorem |
 
 # VI. High Level Concept
 
