@@ -62,23 +62,14 @@ Conventions used in this guide:
 | Monospace | Directories and subdirectories - File names and extensions - Process names - Code sample, including keywords and variables within the text and as separate paragraphs, and user-defined program elements within the text |
 | \&lt;Variable\&gt; | Substitute input value |
 
-# V.Summary of Changes:
+# V. Summary of Changes:
 
 This publication contains additions and changes to information previously presented in Pricing Setup.
 
-| **General changes** |
-**-**
- |
-| --- | --- |
-| **New information** |
-**-**
- |
-| **Changed information** |
-**-**
- |
-| **Deleted information** |
-**-**
- |
+| **General changes** |  |
+| **New information** |  |
+| **Changed information** |  |
+| **Deleted information** |  |
 
 # VI. High Level Concept
 
