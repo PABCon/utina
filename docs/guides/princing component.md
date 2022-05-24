@@ -264,7 +264,7 @@ The type of rate will determinate the calculated formula of the selected rate:
 ![](../../assets/14.jpg)
 
 - **Periodicity**:
-- also the user can fill the periodicity of the rate:
+Also the user can fill the periodicity of the rate:
 
 ![](../../assets/15.jpg)
 
@@ -455,7 +455,7 @@ The Contract element types No Financial is composed by:
 - **Financed Service:** The Financed Service is an agreement where the lessor receives lease payments to cover its ownership&#39; costs. The lessee is responsible for maintenance, insurance, and taxes. Some finance leases are conditional sales or hire purchase agreements.
 - **Contract Fees:** [Contract Fee](https://www.lawinsider.com/dictionary/lease-fee) means any monetary fee or other charge or consideration, or any combination thereof, charged by or paid during a particular shift, or for any period.
 
-4.Click the &#39;Add&#39; button.
+4. Click the &#39;Add&#39; button.
 
 ![](../../assets/35.jpg)
 
@@ -576,7 +576,7 @@ The user can add Criteria on the Pricing element, through Pricing > Pricing Crit
 
 ![](../../assets/51.png)
 
-11.To add Pricing commission, click on the created Pricing > Pricing Commission > Add 
+11. To add Pricing commission, click on the created Pricing > Pricing Commission > Add 
 
 ![](../../assets/52.png)
 
@@ -727,15 +727,19 @@ The Invoicing section is composed by:
 ![](../../assets/70.png)
 
 - Type:
+
 ![](../../assets/71.png)
 
 - Line: 
+
 ![](../../assets/71.png)
 
 - Category: 
+
 ![](../../assets/73.png)
 
 - Tax Code: 
+
 ![](../../assets/74.png)
 
 ##### Supplier:
@@ -891,15 +895,11 @@ The whole pack will be associated with a predefined offer, and the offer will in
 
 The Pricing Pack component starts with the commission creation, by adding the following main data:
 
-Offer Detail
-
-Parameter Filtering
-
-Parameter Value
-
-Criteria
-
-Pricing
+- Offer Detail
+- Parameter Filtering
+- Parameter Value
+- Criteria
+- Pricing
 
 #### 4.3.2 Add a new Pricing Pack:
 
