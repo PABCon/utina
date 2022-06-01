@@ -116,7 +116,6 @@ Utina handles any Pricing Model!
 
 ![](../../assets/POCgraph3.png) 
 
-![](../../assets/newpicture.png) 
 
 # VII. Detailed Concepts
 
