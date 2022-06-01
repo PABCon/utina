@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guides
+title: Instruction
 nav_order: 3
 has_children: true
 permalink: /docs/Instruction
