@@ -28,7 +28,7 @@ This document should be considered in its totality for understanding.
 
 
 
-# I. About this Publication
+# I. About this Publications
 
 This document is a setup user guide describing the Utina Pricing component.
 
@@ -115,6 +115,8 @@ From simple to highly complex,
 Utina handles any Pricing Model!
 
 ![](../../assets/POCgraph3.png) 
+
+![](../../assets/newpicture.png) 
 
 # VII. Detailed Concepts
 
